@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-welcome/welcome-wanderer/","tags":["gardenEntry"],"created":"2025-01-19T15:28:49.449-06:00","updated":"2025-03-05T21:48:22.990-06:00"}
+{"dg-publish":true,"permalink":"/1-welcome/welcome-wanderer/","tags":["gardenEntry"],"created":"2025-01-19T15:28:49.449-06:00","updated":"2025-03-07T21:15:40.011-06:00"}
 ---
 
 
