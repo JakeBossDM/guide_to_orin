@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/new-lariel-naval-legion/","created":"2025-01-21T18:29:45.326-06:00","updated":"2025-01-21T18:36:03.047-06:00"}
+---
+
+Location: [[3 - A Guide to Orin/3.2 Cities and Landmarks/Port Briar\|Port Briar]]
+
+The New Lariel Naval Legion, is the portion of [[3 - A Guide to Orin/3.2 Cities and Landmarks/New Lariel\|New Lariel]]s military that is strictly on the water. They are stationed in [[3 - A Guide to Orin/3.2 Cities and Landmarks/Port Briar\|Port Briar]], where their naval fort is located. If you were to gaze over the walls of [[3 - A Guide to Orin/3.2 Cities and Landmarks/New Lariel\|New Lariel]] and out to  [[2 - The World As We Know It/3. The Great Sea\|3. The Great Sea]], you would see many of ships stationed all throughout. The men and woman dedicated to this branch are what some would say "hardcore". They are strong and take being the best very seriously. They can be a bit chaotic once they are out on the water but they are all business. They take their pride in fending off Orin from outside invaders, monsters, and pirates. Though there have not been an invasion of Orin in quite sometime they will always stand guard in preparation. But one thing that they are never short of work with are stopping pirating ships from entering the the ports of Orin. Though many have definitely learned how to get passed this guard. 

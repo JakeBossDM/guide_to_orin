@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/king-lariel/","created":"2025-01-21T18:37:56.884-06:00","updated":"2025-01-21T19:11:33.360-06:00"}
+---
+
+#### **King Faelor Lariel of New Lariel**
+
+King Faelor Lariel is a beloved ruler and a symbol of unity and hope across Orin. Born in the small settlement of Lariel before [[3 - A Guide to Orin/3.1 History & Events/3. The Abyssal War\|3. The Abyssal War]], Faelor was the son of the settlement's leader, a wise and honorable elf whose name the settlement bore. His early years were shaped by the simple but noble values of his father’s leadership: fairness, compassion, and an unwavering commitment to his people. These principles became the foundation of Faelor’s own character.
+
+During [[3 - A Guide to Orin/3.1 History & Events/3. The Abyssal War\|3. The Abyssal War]], Faelor witnessed the devastation and suffering that plagued Orin, transforming his peaceful home into a battlefield. It was during this time of chaos that Faelor crossed paths with [[3 - A Guide to Orin/3.4 People/Orindar Thalessan\|Orindar Thalessan]], the leader of [[3 - A Guide to Orin/3.4 People/The Trailblazers\|The Trailblazers]] and one of the greatest heroes of Orin's history. Recognizing the potential within the young elf, Orindar took Faelor under his wing, teaching him the arts of leadership, strategy, and diplomacy. Faelor proved to be a diligent and eager pupil, deeply internalizing Orindar's vision of unity for the land.
+
+When the Abyssal War finally ended and Orindar passed on, the settlement of Lariel had grown into a thriving city. In honor of Faelor’s contributions during the war and his leadership in its aftermath, the people of the city renamed it [[3 - A Guide to Orin/3.2 Cities and Landmarks/New Lariel\|New Lariel]]. Though Faelor had not sought power, his unwavering dedication to the ideals of peace and prosperity made him the natural choice to lead. He ascended as king, uniting the city and its surrounding regions under a single banner.
+
+As king, Faelor Lariel has ruled with compassion, wisdom, and strength. His dream is a peaceful and united Orin, where all peoples—be they human, elf, dwarf, dragonborn, or otherwise—can thrive together. [[3 - A Guide to Orin/3.2 Cities and Landmarks/New Lariel\|New Lariel]] has grown into the shining capital of Orin, a city of magic and beauty perched on the cliffs overlooking [[2 - The World As We Know It/3. The Great Sea\|3. The Great Sea]], with its massive walls standing as a testament to the strength of its people and its king.
+
+Though Faelor is a skilled warrior, his preferred weapons are words and diplomacy. He tirelessly works to heal old wounds and foster cooperation among Orin's diverse cultures, believing that harmony is the land’s greatest strength. The people love him not only for his vision but for his accessibility; he is a king who listens to his people, treating even the humblest subject with respect.
+
+Faelor’s father’s legacy lives on in the city’s name, but it is Faelor Lariel who has made it a beacon of hope for all of Orin. His reign has become a testament to his belief that peace is not merely the absence of conflict, but a promise to be nurtured and protected by all.
