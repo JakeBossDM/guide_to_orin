@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-items-of-interest/trailbreaker/","created":"2025-01-21T18:39:51.957-06:00","updated":"2025-01-21T18:41:43.256-06:00"}
+{"dg-publish":true,"permalink":"/4-items-of-interest/trailbreaker/"}
 ---
 
 

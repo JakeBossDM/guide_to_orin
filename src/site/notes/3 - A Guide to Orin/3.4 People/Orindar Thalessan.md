@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/orindar-thalessan/","created":"2025-01-19T14:24:15.811-06:00","updated":"2025-01-21T18:40:36.367-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/orindar-thalessan/"}
 ---
 
 Location: DECEASED

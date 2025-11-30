@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/the-trailblazers/","created":"2025-01-19T09:15:19.977-06:00","updated":"2025-01-21T18:37:28.260-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/the-trailblazers/"}
 ---
 
 Location: DECEASED

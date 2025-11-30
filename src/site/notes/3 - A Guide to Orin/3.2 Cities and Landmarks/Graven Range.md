@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/graven-range/","created":"2025-01-18T17:12:01.342-06:00","updated":"2025-01-20T18:33:58.727-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/graven-range/"}
 ---
 
 The Graven Range is a towering wall of jagged peaks and shadowed valleys that slices through the heart of Orin, dividing the lush southern lands from the dry northern plains. Its snow-capped peaks pierce the clouds, while dense evergreen forests blanket its lower slopes. The air here is sharp and cold, and the wind howls through the craggy cliffs like a mournful cry.

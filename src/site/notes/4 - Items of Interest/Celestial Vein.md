@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-items-of-interest/celestial-vein/","created":"2025-01-22T16:01:19.635-06:00","updated":"2025-01-23T13:05:56.176-06:00"}
+{"dg-publish":true,"permalink":"/4-items-of-interest/celestial-vein/"}
 ---
 
 The Celestial Vein is the formal name of the veins of arcana that flow through the city of [[3 - A Guide to Orin/3.2 Cities and Landmarks/New Lariel\|New Lariel]]. It is used to light the torches and lamps throughout the city, and to fuel many advanced machinery and equipment. This vein especially supplies the [[College of New Lariel\|College of New Lariel]] with a raw source of arcana for students to use and work with in the classrooms. 

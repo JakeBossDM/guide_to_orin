@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/general-talos/","created":"2025-01-21T18:23:19.668-06:00","updated":"2025-01-21T18:36:19.651-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/general-talos/"}
 ---
 
 Location: [[3 - A Guide to Orin/3.2 Cities and Landmarks/New Lariel\|New Lariel]]

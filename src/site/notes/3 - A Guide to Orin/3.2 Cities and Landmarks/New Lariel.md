@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/new-lariel/","created":"2025-01-20T18:47:20.407-06:00","updated":"2025-01-22T18:51:55.774-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/new-lariel/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/king-lariel/","created":"2025-01-21T18:37:56.884-06:00","updated":"2025-01-21T19:11:33.360-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/king-lariel/"}
 ---
 
 #### **King Faelor Lariel of New Lariel**

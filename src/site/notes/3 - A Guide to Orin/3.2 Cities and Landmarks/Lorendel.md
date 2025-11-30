@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/lorendel/","created":"2025-01-18T17:24:57.678-06:00","updated":"2025-01-21T12:28:09.631-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/lorendel/"}
 ---
 
 

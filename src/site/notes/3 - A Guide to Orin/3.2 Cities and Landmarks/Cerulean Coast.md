@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/cerulean-coast/","created":"2025-01-18T17:38:13.357-06:00","updated":"2025-01-21T11:26:51.615-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/cerulean-coast/"}
 ---
 
 

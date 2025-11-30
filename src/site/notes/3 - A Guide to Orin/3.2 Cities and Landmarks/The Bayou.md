@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/the-bayou/","created":"2025-01-19T12:37:42.634-06:00","updated":"2025-01-24T12:03:09.276-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/the-bayou/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-items-of-interest/milk-thistle/","created":"2025-01-22T16:00:55.696-06:00","updated":"2025-01-23T12:55:08.415-06:00"}
+{"dg-publish":true,"permalink":"/4-items-of-interest/milk-thistle/"}
 ---
 
 Milk Thistle is a lifeline for the people of [[3 - A Guide to Orin/3.2 Cities and Landmarks/The Bayou\|The Bayou]]. It is considered one of the best healing remedies by the people there. It can be found near the marshy shores of the [[3 - A Guide to Orin/3.2 Cities and Landmarks/Moonstrand River\|Moonstrand River]] poking out of the water. 

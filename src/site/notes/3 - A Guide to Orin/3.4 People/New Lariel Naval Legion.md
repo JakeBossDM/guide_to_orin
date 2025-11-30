@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/new-lariel-naval-legion/","created":"2025-01-21T18:29:45.326-06:00","updated":"2025-01-21T18:36:03.047-06:00"}
+{"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-4-people/new-lariel-naval-legion/"}
 ---
 
 Location: [[3 - A Guide to Orin/3.2 Cities and Landmarks/Port Briar\|Port Briar]]
