@@ -199,51 +199,55 @@ As the party narrowed down some negotiations with Quib, Oog and the young bandit
 ### Session 9
 
 
-1. Party travels to Brewhaven
-2. Is able to trick the city guard into letting them into town without papers by using an illusion spell on the barrels to look like alcohol. 
+Party travels to Brewhaven
 
-3. In truth party has 2 barrels of drugs in vials. 
+Is able to trick the city guard into letting them into town without papers by using an illusion spell on the barrels to look like alcohol. 
 
-4. The Vanguard in charge at this check station seemed skeptical of the party. 
+In truth party has 2 barrels of drugs in vials. 
 
-5. Gronk speaks with the Vanguard to help their chances of getting in 
+The Vanguard in charge at this check station seemed skeptical of the party. 
 
-6. Party drops wagon off at a storage location for vendors for the festival.
-7. They then go to a nearby inn that Gronk spent much time at named Mary’s Manger
+Gronk speaks with the Vanguard to help their chances of getting in 
 
-8. After some catching up between the barkeep Mrs. T and Gronk. Gronk speaks with an old work colleague. One of the twins he helped to raise up within the Blackthorn Vanguard. 
-9. Learns about a meeting that would be taking place the next evening with some of the higher up’s of the Vanguard.
-10. Gronk then competes in the special 1v1 arena with a knight who absolutely demolishes Gronk.
-11. Party then turns in for the night
+Party drops wagon off at a storage location for vendors for the festival.
 
-12. Party goes into the main festival grounds. 
+They then go to a nearby inn that Gronk spent much time at named [[The Merry Manger\|The Merry Manger]]
 
-13. Oog and Billy Bob go to see a psychic
-14. Psychic is able to unlock most of Oogs lost memories. Bringing him out of this “caveman” state back to a more civilized humanoid
-15. Billy Bob sees glimpses of the past. His wife passing away die to a dam burst on the Moonstrand River. 
+- After some catching up between the barkeep Mrs. T and Gronk. Gronk speaks with an old work colleague. One of the twins he helped to raise up within the [[Blackthorn Vanguard\|Blackthorn Vanguard]]. 
 
-16. The rest of the party goes to see a back alley goblin merchant named Murkey. Hoping he has info on where to find Vaylen
+- Learns about a meeting that would be taking place the next evening with some of the higher up’s of the Vanguard.
+- Gronk then competes in the special 1v1 arena with a knight who absolutely demolishes Gronk.
+- Party then turns in for the night
 
-17. The group is able to gain some info on a certain area Murkey believes Vaylen has been hiding. 
-18. A church on the outskirts of the city near the walls that surround Brewhaven
+Party goes into the main festival grounds. 
 
-19. The party reunites
-20. The party witnesses a sabotage take place on one of the festival stages by a sketchy sorcerer of some kind. 
+- Oog and Billy Bob go to see a psychic
+- Psychic is able to unlock most of Oogs lost memories. Bringing him out of this “caveman” state back to a more civilized humanoid
+- Billy Bob sees glimpses of the past. His wife passing away die to a dam burst on the Moonstrand River. 
 
-21. Group attempts to catch the sorcerer but they come up empty as he escapes into the city. 
+- The rest of the party goes to see a back alley goblin merchant named Murkey. Hoping he has info on where to find Vaylen
 
-22. The group makes their way to the church hoping to find answers to Vaylen’s whereabouts. 
+- The group is able to gain some info on a certain area Murkey believes Vaylen has been hiding. 
+- A church on the outskirts of the city near the walls that surround Brewhaven
 
-23. There, they find a hidden trap door that goes under the church 
-24. Leads the party to a large chamber used as a catacomb.
-25. The party encounters swarms of necrotic crawling hands.
-26. After successfully defeating all the swarms, Vaylen allows them into his quarters. 
+The party reunites
 
-27. Vaylen introduces himself and lets the party into his hideout. 
-28. Vaylen gives key information the the party. 
+The party witnesses a sabotage take place on one of the festival stages by a sketchy sorcerer of some kind. 
 
-29. The Blackthorn Vanguard are after him in order to gain knowledge on the whereabouts of a Ring of Chaos
-30. The Vanguard are working for some mysterious figure who has big plans
-31. The Kings Saints who sent the party on their mission, is truly the old evil cult leaders of the Ebon Conclave
-32. Asks the party to find all 5 of the Rings of Chaos. Starting with a ring being kept in a “city in the sea”.
+- Group attempts to catch the sorcerer but they come up empty as he escapes into the city. 
+
+The group makes their way to the church hoping to find answers to Vaylen’s whereabouts. 
+
+- There, they find a hidden trap door that goes under the church 
+- Leads the party to a large chamber used as a catacomb.
+- The party encounters swarms of necrotic crawling hands.
+
+After successfully defeating all the swarms, Vaylen allows them into his quarters. 
+
+- Vaylen introduces himself and lets the party into his hideout. 
+- Vaylen gives key information the the party. 
+- The Blackthorn Vanguard are after him in order to gain knowledge on the whereabouts of a Ring of Chaos
+- The Vanguard are working for some mysterious figure who has big plans
+- The Kings Saints who sent the party on their mission, is truly the old evil cult leaders of the Ebon Conclave
+- Asks the party to find all 5 of the Rings of Chaos. Starting with a ring being kept in a “city in the sea”.
 
