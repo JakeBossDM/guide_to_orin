@@ -15,7 +15,7 @@ It is equal parts:
 - smuggler’s crossroads
 - ancestral territory tied to the Elemental Plane of Water
 
-And below its waves sits Thal’Zirith, the ancient merfolk metropolis your rumored to have old ties to island itself.
+And below its waves is rumored to be Thal’Zirith, the ancient merfolk metropolis that only the elders speak about. Most don't fully believe it to be true, only that the area is known for its dangerous waters
 
 -——————————————————————————
 ### 🌊 History & Identity of Brineshore
