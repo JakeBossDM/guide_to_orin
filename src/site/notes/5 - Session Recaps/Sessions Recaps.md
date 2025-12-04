@@ -211,9 +211,9 @@ Gronk speaks with the Vanguard to help their chances of getting in 
 
 Party drops wagon off at a storage location for vendors for the festival.
 
-They then go to a nearby inn that Gronk spent much time at named [[The Merry Manger\|The Merry Manger]]
+They then go to a nearby inn that Gronk spent much time at named [[3 - A Guide to Orin/3.3 Business’s/The Merry Manger\|The Merry Manger]]
 
-- After some catching up between the barkeep Mrs. T and Gronk. Gronk speaks with an old work colleague. One of the twins he helped to raise up within the [[Blackthorn Vanguard\|Blackthorn Vanguard]]. 
+- After some catching up between the barkeep Mrs. T and Gronk. Gronk speaks with an old work colleague. One of the twins he helped to raise up within the [[3 - A Guide to Orin/3.4 People/Blackthorn Vanguard\|Blackthorn Vanguard]]. 
 
 - Learns about a meeting that would be taking place the next evening with some of the higher up’s of the Vanguard.
 - Gronk then competes in the special 1v1 arena with a knight who absolutely demolishes Gronk.
