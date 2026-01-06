@@ -3,7 +3,7 @@
 ---
 
 
-
+![CD856AD9-F106-4604-A95E-14DED2095423.png](/img/user/CD856AD9-F106-4604-A95E-14DED2095423.png)
 Perched on the southern edge of the Graven Range, Lorendel is a city of breathtaking splendor, built high into the mountains where it overlooks the vast, lush lands of southern Orin. This ancient city is a testament to elven craftsmanship and arcane ingenuity, its tall spires and elegant bridges seeming to grow naturally from the stone of the mountain. The view from Lorendel is awe-inspiring, offering sweeping vistas of forests, rivers, and rolling hills that stretch into the horizon.
 
   

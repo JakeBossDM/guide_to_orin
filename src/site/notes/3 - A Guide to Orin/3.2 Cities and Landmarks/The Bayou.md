@@ -3,8 +3,7 @@
 ---
 
 
-![IMG_1827.webp](/img/user/Images/IMG_1827.webp)
-
+![AA963B9E-02FA-42A3-A8B2-7EC67FB9D4E1.png](/img/user/AA963B9E-02FA-42A3-A8B2-7EC67FB9D4E1.png)
 
 ## Overview
 

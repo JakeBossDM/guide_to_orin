@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/brewhaven/"}
 ---
 
-
+![7A9C1EFD-5E5C-428F-9E43-8CB869999B97.png](/img/user/7A9C1EFD-5E5C-428F-9E43-8CB869999B97.png)
 
 Nestled along the [[3 - A Guide to Orin/3.2 Cities and Landmarks/Merrygold River\|Merrygold River]], Brewhaven is a bustling town that thrives as a hub of trade, culture, and commerce. Known for its lively markets and vibrant festivals, it is a true melting pot where people from all across [[3 - A Guide to Orin/3.1 History & Events/2. Orin's Landscape\|2. Orin's Landscape]] come together. Humans, dwarves, elves, goblins, and more call Brewhaven home, their diverse backgrounds blending to create a rich tapestry of traditions and ideas. This diversity has made the town a beacon of opportunity, drawing merchants, craftsmen, scholars, and adventurers alike.
 

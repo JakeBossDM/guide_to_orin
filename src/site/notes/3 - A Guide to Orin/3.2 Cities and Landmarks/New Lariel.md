@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/new-lariel/"}
 ---
 
-
-![neverwinter-harbor-by-jedd-chevrier.jpeg](/img/user/Images/neverwinter-harbor-by-jedd-chevrier.jpeg)
-
+![67382E09-3E26-4A26-A648-46F7E5E0017A.png](/img/user/67382E09-3E26-4A26-A648-46F7E5E0017A.png)
 New Lariel stands as the shining capital of [[Orin\|Orin]], perched majestically atop a steep, rocky cliff that overlooks the deep unknown of [[2 - The World As We Know It/3. The Great Sea\|3. The Great Sea]]. Its silhouette is dominated by its massive, fortified walls, crafted from ancient stone and reinforced with intricate magical wards, making it nearly impenetrable to any who would dare assault its borders. These walls, adorned with glowing runes, hum faintly with arcane energy, a testament to the city's deep ties to magic and its storied history.
 
 The city itself is a marvel of beauty and craftsmanship. Veins of raw magic run through the streets, visible as faintly glowing streaks in the cobblestones, walls, and buildings. These magical veins pulse with life, providing energy to streetlamps, powering intricate arcane mechanisms, and fueling the research of the city's many scholars. At night, the veins bathe the city in a soft, ethereal light, giving it the appearance of a living, breathing jewel atop the cliffs.
