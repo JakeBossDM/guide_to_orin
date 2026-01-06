@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/verdant-steps/"}
 ---
 
+![FA9DE026-76BE-411E-BC05-6D0FB571B31F.png](/img/user/FA9DE026-76BE-411E-BC05-6D0FB571B31F.png)
+
 The Verdant Steps are a breathtaking expanse of rolling green hills stretching across the southeasternmost reaches of Orin. The landscape is a patchwork of wildflower-dotted meadows, small winding creeks, and well-tended farmlands, all shaped by generations of halflings and gnomes who call this place home. The hills get their name from the way they cascade down in gentle, step-like terraces, naturally formed over time by wind and water.
 
   

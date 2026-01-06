@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-a-guide-to-orin/3-2-cities-and-landmarks/brineshore/"}
 ---
 
-
+![075F0F0F-753B-4805-8ED8-87A7F19D0B1E.png](/img/user/075F0F0F-753B-4805-8ED8-87A7F19D0B1E.png)
 # 🏴‍☠️ Brineshore — The Tide-Crowned Isle
 
 ### Overview
